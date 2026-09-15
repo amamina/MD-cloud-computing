@@ -101,6 +101,61 @@ Example outputs include:
 * Radius of gyration plot
 * Molecular structure/trajectory visualization
 
+* # Molecular Dynamics Simulation
+
+## Overview
+
+This repository contains a computational Molecular Dynamics (MD) simulation workflow implemented in **Google Colab** to investigate the structural dynamics and stability of a protein system.
+
+The workflow covers system preparation, energy minimization, equilibration, production MD, trajectory processing, and structural analysis.
+
+## Computational Workflow
+
+**Structure preparation → System setup → Energy minimization → NVT/NPT equilibration → Production MD → Trajectory analysis**
+
+## Methods
+
+The simulation workflow includes:
+
+* Protein structure preparation and topology generation
+* Solvation and addition of counterions
+* Energy minimization
+* NVT and NPT equilibration
+* Production Molecular Dynamics
+* Periodic boundary condition correction and trajectory processing
+* Structural stability and flexibility analysis
+
+### Trajectory Analysis
+
+Structural dynamics are evaluated using:
+
+* **RMSD** — assessment of global structural deviation
+* **RMSF** — characterization of residue-level flexibility
+* **Radius of gyration** — evaluation of structural compactness
+* **Hydrogen-bond analysis** — characterization of persistent molecular interactions
+
+## Computational Environment
+
+| Component                 | Tool                 |
+| ------------------------- | -------------------- |
+| Computational environment | Google Colab         |
+| MD engine                 | GROMACS              |
+| Programming / analysis    | Python               |
+| Trajectory analysis       | MDAnalysis           |
+| Molecular visualization   | UCSF Chimera / PyMOL |
+
+
+## Results
+
+The repository contains the processed simulation trajectory and quantitative analyses of structural deviation, residue flexibility, and molecular compactness.
+
+Representative plots and molecular visualizations are provided in the `results/` directory.
+
+
+## Scope
+
+This project focuses on the computational implementation and analysis of an MD workflow. Biological interpretation is considered in the context of the simulated molecular system and the limitations imposed by simulation length, force-field selection, structural preparation, and sampling.
+
 ## Learning Outcomes
 
 Through this project, I developed practical familiarity with:
@@ -114,7 +169,4 @@ Through this project, I developed practical familiarity with:
 
 
 ## Author
-
-Amina Ayub
-
-Exploring Bioinformatics & Computational Biology
+# Amina Ayub
