@@ -7,7 +7,7 @@ This repository demonstrates a **Molecular Dynamics (MD) simulation workflow** p
 
 The project explores how a biomolecular structure behaves over time under simulated conditions. The workflow includes preparation of the molecular structure, energy minimization, equilibration, production simulation, and analysis of the resulting trajectory.
 
-The project is intended as a computational biology/bioinformatics learning project and demonstrates the use of computational tools for studying **protein structure and molecular dynamics**.
+The project is intended as a computational biology learning project and demonstrates the use of computational tools for studying **protein structure and molecular dynamics**.
 
 ## Objectives
 
@@ -112,12 +112,9 @@ Through this project, I developed practical familiarity with:
 * Python-based trajectory analysis
 * Interpretation of structural stability and flexibility metrics
 
-## Disclaimer
-
-This repository represents a **learning and portfolio project** demonstrating an MD simulation workflow. Simulation parameters, duration, and computational settings should be carefully evaluated before drawing biological or mechanistic conclusions.
 
 ## Author
 
-**Amy**
+Amina Ayub
 
 Exploring Bioinformatics & Computational Biology
