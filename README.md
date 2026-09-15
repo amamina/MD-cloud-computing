@@ -1,6 +1,6 @@
 # MD-cloud-computing
-# Molecular Dynamics Simulation
 
+Molecular Dynamics Simulation
 ## Overview
 
 This repository demonstrates a **Molecular Dynamics (MD) simulation workflow** performed using **Google Colab**.
