@@ -49,6 +49,17 @@ Trajectory analysis	MDAnalysis
 Molecular visualization	UCSF Chimera / PyMOL
 Interactive workflow / Jupyter Notebook 
 
+
+## Computational Environment
+
+| Component                 | Tool                 |
+| ------------------------- | -------------------- |
+| Computational environment | Google Colab         |
+| MD engine                 | GROMACS              |
+| Programming / analysis    | Python               |
+| Trajectory analysis       | MDAnalysis           |
+| Molecular visualization   | UCSF Chimera / PyMOL |
+
 ## Analyses
 
 The simulation trajectory is analyzed using measures such as:
@@ -108,16 +119,6 @@ Structural dynamics are evaluated using:
 * **RMSF** — characterization of residue-level flexibility
 * **Radius of gyration** — evaluation of structural compactness
 * **Hydrogen-bond analysis** — characterization of persistent molecular interactions
-
-## Computational Environment
-
-| Component                 | Tool                 |
-| ------------------------- | -------------------- |
-| Computational environment | Google Colab         |
-| MD engine                 | GROMACS              |
-| Programming / analysis    | Python               |
-| Trajectory analysis       | MDAnalysis           |
-| Molecular visualization   | UCSF Chimera / PyMOL |
 
 
 ## Results
