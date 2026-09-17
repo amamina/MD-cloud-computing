@@ -59,11 +59,6 @@ The simulation trajectory is analyzed using measures such as:
 * **Hydrogen-bond analysis** — interactions maintained during simulation
 * **Trajectory visualization** — structural changes throughout the simulation
 
-## Repository Structure
-
-```text
-```
-
 ## Google Colab
 
 The complete workflow is implemented in a Google Colab notebook so that the simulation and analysis can be performed in a cloud-based computational environment without requiring a local MD installation.
