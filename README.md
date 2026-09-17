@@ -62,26 +62,6 @@ The simulation trajectory is analyzed using measures such as:
 ## Repository Structure
 
 ```text
-MD-Simulation/
-│
-├── README.md
-├── notebooks/
-│   └── MD_simulation_Colab.ipynb
-│
-├── input/
-│   └── protein.pdb
-│
-├── analysis/
-│   ├── RMSD/
-│   ├── RMSF/
-│   └── Radius_of_Gyration/
-│
-├── results/
-│   ├── figures/
-│   └── processed_data/
-│
-└── images/
-    └── workflow.png
 ```
 
 ## Google Colab
