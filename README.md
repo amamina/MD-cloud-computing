@@ -38,18 +38,6 @@ Trajectory Analysis
 Visualization & Interpretation
 ```
 
-## Tools & Technologies
-
-Computational Environment
-Component	Tool
-Computational environment	Google Colab
-MD engine	GROMACS
-Programming / analysis	Python
-Trajectory analysis	MDAnalysis
-Molecular visualization	UCSF Chimera / PyMOL
-Interactive workflow / Jupyter Notebook 
-
-
 ## Computational Environment
 
 | Component                 | Tool                 |
