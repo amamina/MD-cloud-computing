@@ -133,4 +133,4 @@ Through this project, I developed practical familiarity with:
 
 
 ## Author
-# Amina Ayub
+## Amina Ayub
